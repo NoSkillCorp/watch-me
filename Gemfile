@@ -7,8 +7,6 @@ gem 'rails', '4.2.5'
 gem 'sqlite3'
 #Use React for shiny views
 gem 'react-rails', '~> 1.6.2'
-# Use Bootstrap everywhere !
-gem 'bootstrap-sass', '~> 3.3.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

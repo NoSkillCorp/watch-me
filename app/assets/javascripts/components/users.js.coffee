@@ -10,7 +10,7 @@
           className: 'title'
           'Users'
         React.DOM.table
-          className: 'table table-bordered'
+          className: 'table table-bordered table-striped'
           React.DOM.thead null,
             React.DOM.tr null,
               React.DOM.th null, 'Id'
